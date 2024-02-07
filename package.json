@@ -16,6 +16,10 @@
       {
         "command": "explained.comment",
         "title": "Comment it"
+      },
+      {
+        "command": "explained.setCommentCount",
+        "title": "Comment amount"
       }
     ]
   },
@@ -34,6 +38,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.2.0"
+    "@google/generative-ai": "^0.2.0",
+    "dotenv": "^16.4.1"
   }
 }
