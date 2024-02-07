@@ -27,4 +27,4 @@ You can choose how many comments you want to generate:
 
 ## Feedback and Contributions
 
-All constructive feedback and suggestions for improvement are welcome! Thank you!
+All constructive feedback and suggestions for improvement are welcome! If you have any bug, or you have an idea for a new freature, you could open an [issue](https://github.com/jjavieralonso/explained/issues) on the [GitHub repository](https://github.com/jjavieralonso/explained). Thank you!
