@@ -67,7 +67,6 @@ function activate(context) {
         const document = editor.document;
         const selection = editor.selection;
         const selectedCode = document.getText(selection);
-        const summary = await commentCode(selectedCode);
 
         //Map of comment syntax for different file extensions
         const commentSyntax = {
