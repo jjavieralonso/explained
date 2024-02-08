@@ -3,6 +3,7 @@
   "displayName": "explained",
   "publisher": "jjavieralonso",
   "description": "Create a comment summarizing your code",
+  "icon": "assets/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"

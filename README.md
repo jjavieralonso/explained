@@ -16,6 +16,7 @@ Explained, a Visual Studio Code extension that generates comments summarizing yo
 1. Select a portion of your code that you want to generate a comment for.
 2. Press Ctrl + Shift + P to open the Command Palette.
 3. Type "Comment it" and run the command. A comment summarizing your selected code will be inserted at the start of the selection.
+4. Supporting: JavaScript, TypeScript, Python, HTML, CSS, Java, C, C++, Go, Ruby, PHP, Swift, Rust, XML, SQL, Perl, Lua, R, Scala, Groovy, Kotlin, Dart, Fortran; and soon, more.
 
 ## Additional Features
 
